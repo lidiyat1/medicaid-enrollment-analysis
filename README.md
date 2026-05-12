@@ -56,7 +56,11 @@ Evaluated Medicaid member distribution across Georgia counties.
 - Support outreach efforts for reenrolling beneficiaries.
 
 ---
-<img width="2582" height="1648" alt="image" src="https://github.com/user-attachments/assets/d2899a7f-b3d1-4f78-ac59-63dbfe0cfb07" />
 
 ## Dashboard
+<img width="2582" height="1648" alt="image" src="https://github.com/user-attachments/assets/d2899a7f-b3d1-4f78-ac59-63dbfe0cfb07" />
+
+
+
+
 (Add Tableau Public link here)
